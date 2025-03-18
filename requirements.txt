@@ -1,0 +1,7 @@
+codecarbon
+scikit-learn
+tensorflow
+keras
+numpy
+torch
+transformers
