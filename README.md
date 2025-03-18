@@ -48,7 +48,13 @@ python experiment_1.py
 To track and visualize emissions, use **Docker Compose**:  
 
 ```bash
-docker-compose up
+docker compose up
+```
+
+or if you are using podman 
+
+```bash
+podman compose up
 ```
 
 This will start:  
@@ -70,7 +76,6 @@ This will start:
    ```
    codecarbon_emissions_kg
    ```
-5. **You can now see real-time emissions tracking!**  
 
 ---
 ## **Contributing**  
